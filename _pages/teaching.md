@@ -13,11 +13,12 @@ I've enjoyed teaching several Software and Data Carpentries courses. The teachin
 > > The Carpentries Instructor Training, November 2021. Word K., Brown S.M., Dennis T., Barnes K. (eds). DOI: [10.5281/zenodo.5709383](https://doi.org/10.5281/zenodo.5709383).
 
 
-
-
+ <br>
+ <br>
 
 
 ## Instructor
+ <br>
 
 #### Shell, Git, R for Reproducible Scientific Analysis (USDA)
 	- https://laporpe.github.io/2022-03-24-usda-online/
@@ -28,11 +29,13 @@ I've enjoyed teaching several Software and Data Carpentries courses. The teachin
 #### Software Carpentry with R (University of Delaware Bioinformatics)
 	- https://laporpe.github.io/2022-01-24-udel-online/
 	
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Supporting Instructor:
+ <br>
 
 #### Data Carpentry: Ecology with Python (Stony Brook University)
 	- https://farzanazali.github.io/2021-10-11-stonybrook-online/
