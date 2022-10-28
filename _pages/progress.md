@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /progress/
+title: progress
 description:
 nav: true
 nav_order: 5
