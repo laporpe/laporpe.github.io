@@ -33,12 +33,12 @@ Here is a sample plot with my own project data included. Below is a place to upl
 
 # Download a sample dataset here: 
 
-(Sample Data)[https://github.com/laporpe/laporpe.github.io/blob/master/assets/csv/sample.csv]
+[Sample Data](https://github.com/laporpe/laporpe.github.io/blob/master/assets/csv/sample.csv)
 
 # Visualize your own dataset:
 
 You can visualize your own dataset by following this link to the heroku-deployed app! 
 
-(Progress-vis on Heroku)[https://progress-vis.herokuapp.com/]
+[Progress-vis on Heroku](https://progress-vis.herokuapp.com/)
 
 
