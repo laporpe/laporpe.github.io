@@ -31,7 +31,14 @@ Here is a sample plot with my own project data included. Below is a place to upl
 
 <table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">      <th></th>      <th>Task</th>      <th>Start</th>      <th>Finish</th>      <th>Completion_pct</th>    </tr>  </thead>  <tbody>    <tr>      <th>0</th>      <td>Aim 1</td>      <td>2019-09-25</td>      <td>2022-02-28</td>      <td>100</td>    </tr>    <tr>      <th>1</th>      <td>Aim 2</td>      <td>2021-03-05</td>      <td>2023-03-15</td>      <td>50</td>    </tr>    <tr>      <th>2</th>      <td>Aim 3</td>      <td>2023-01-05</td>      <td>2024-08-16</td>      <td>0</td>    </tr>    <tr>      <th>3</th>      <td>Internship</td>      <td>2022-11-15</td>      <td>2023-4-15</td>      <td>0</td>    </tr>    <tr>      <th>4</th>      <td>Classwork (Plant)</td>      <td>2019-09-21</td>      <td>2021-06-10</td>      <td>100</td>    </tr>    <tr>      <th>5</th>      <td>Classwork (CS/Stats)</td>      <td>2021-01-03</td>      <td>2022-06-10</td>      <td>100</td>    </tr>    <tr>      <th>6</th>      <td>Practicum</td>      <td>2022-07-11</td>      <td>2022-10-07</td>      <td>100</td>    </tr>  </tbody></table>
 
+# Download a sample dataset here: 
+
+(Sample Data)[https://github.com/laporpe/laporpe.github.io/blob/master/assets/csv/sample.csv]
+
 # Visualize your own dataset:
 
-Be sure to format your file as a csv with the same column/data formats
+You can visualize your own dataset by following this link to the heroku-deployed app! 
+
+(Progress-vis on Heroku)[https://progress-vis.herokuapp.com/]
+
 
