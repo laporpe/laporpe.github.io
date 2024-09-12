@@ -3,7 +3,7 @@ layout: page
 permalink: /progress/
 title: progress
 description:
-nav: true
+nav: false
 nav_order: 5
 ---
 
