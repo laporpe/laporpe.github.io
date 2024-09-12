@@ -21,8 +21,10 @@ I've enjoyed teaching several Software and Data Carpentries courses. The teachin
  <br>
 
 #### Software Carpentry: with Python, Shell, and Git (Cal Poly Humboldt)
-This workshop was conducted twice in-person in Arcata California! 
+## This workshop was conducted twice in-person in Arcata California! 
+	
 	- August 2023: https://laporpe.github.io/2023-08-14-humboldt/
+	
 	- January 2024: https://carolynkoehn.github.io/2024-01-11-humboldt
 
 #### Shell, Git, R for Reproducible Scientific Analysis (USDA)
