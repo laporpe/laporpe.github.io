@@ -1,28 +1,33 @@
-- title: Education
+- title: Download full CV by clicking the PDF icon in the upper-right
   type: time_table
   contents:
     - title: PhD in Plant Biology
       institution: University of California, Davis
-      year: 2024
+      year: December 2024
      - title: BSc in Plant Biology - Biotechnology
       institution: University of Oklahoma
-      year: 2019
+      year: May 2019
 
 - title: Academic Interests
-  type: list
+  type: nested_list
   contents:
-    - name: Plant Breeding
-      value: How can we use genetics, molecular biology, and advancements in computing to alleviate hunger? (Inspired by Norman Borlaug)
+    - title: Plant Breeding
+      items: 
+      - How can we use genetics, molecular biology, and advancements in computing to alleviate hunger? (Inspired by Norman Borlaug)
     - name: High Performance Computing
-      value: What would you do with 100x more computational power than we have today? (Inspired by the CSGF Community)
+      items: 
+      - What would you do with 100x more computational power than we have today? (Inspired by the CSGF Community)
     - name: Statistics
-      value: How can we quantify what we have learned and communicate our findings? (Inspired by Mark Twain)
+      items: 
+      - How can we quantify what we have learned and communicate our findings? (Inspired by Mark Twain)
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
     - name: Hobbies
-      value: language learning, casual bike riding, reading science fiction, Dungeons and Dragons
+      items: 
+      - language learning, casual bike riding, reading science fiction, Dungeons and Dragons
     - name: Languages
-      value: English (fluent), Spanish (learning, studying [formally and informally] since 2022), French (learning, studied a French Minor at the University of Oklahoma)
+      items: 
+      - English (fluent), Spanish (learning, studying [formally and informally] since 2022), French (learning, studied a French Minor at the University of Oklahoma)
 
