@@ -1,10 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV -- Click on the purple PDF Icon to the right to open my updated CV!
+title: CV
 nav: true
 nav_order: 3
 cv_pdf: CV_2024.pdf
 ---
 
+Click on the PDF Icon to the right to open an updated CV!
 
