@@ -1,4 +1,7 @@
-- title: Download my CV by clicking the PDF icon in the upper-right!
+- title: Download CV by clicking the PDF icon in the upper-right
+  type: map
+
+- title: Education
   type: time_table
   contents:
     - title: PhD in Plant Biology
