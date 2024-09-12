@@ -1,15 +1,13 @@
-- title: Download CV by clicking the PDF icon in the upper-right
-  type: map
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Plant Biology
       institution: University of California, Davis
-      year: Dec. 2024
+      year: 2024
      - title: BSc in Plant Biology - Biotechnology
       institution: University of Oklahoma
-      year: May 2019
+      year: 2019
 
 - title: Academic Interests
   type: list
